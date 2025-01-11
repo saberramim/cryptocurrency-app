@@ -4,14 +4,18 @@ function Layout({ children }) {
   return (
     <>
       <header className={styles.header}>
-        <h1>Crypto App</h1>
+        <h1>Cryptocurrency </h1>
         <p>
-          <a href="#">SaberRamim </a>| React.js Projhe
+          <a href="https://github.com/SaberRamim">SaberRamim </a>| React.js
+          Project
         </p>
       </header>
       {children}
       <footer className={styles.footer}>
-        <p>Developed By Saber Ramim</p>
+        <p>
+          Developed By 
+          <a href=" https://www.linkedin.com/in/saberramim/"> Saber Ramim</a>
+        </p>
       </footer>
     </>
   );

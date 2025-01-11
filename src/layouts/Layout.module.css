@@ -2,7 +2,8 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #3874ff;
+  background-color: #969291;
+  color: #0b47d4;
   padding: 10px 20px;
   margin-bottom: 150px;
   border-radius: 10px;
@@ -14,10 +15,17 @@
   font-size: 1.1rem;
 }
 .footer {
- 
   text-align: center;
-  background-color: #3874ff;
+  background-color: #969291;
+  color: #000;
   padding: 20px;
   margin-top: 80px;
   border-radius: 10px;
+}
+.footer a {
+  color: blue;
+}
+.footer a:hover {
+  font-weight: 600;
+  transition: all 0.2s ease-in;
 }
