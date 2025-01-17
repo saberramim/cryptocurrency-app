@@ -14,7 +14,7 @@
 وابستگی‌ها را با دستور npm install نصب کنید.
 با دستور npm start برنامه را اجرا کنید.
 
-......
+.......
 
 Cryptocurrency App
 This project is a web application for displaying and managing cryptocurrency information. It is built using React.js for the user interface, CSS for styling, and HTML for page structure.
