@@ -60,7 +60,6 @@ The app will launch in your default web browser, allowing you to explore the fea
 کلون کردن مخزن:
 ابتدا مخزن پروژه را به دستگاه محلی خود با استفاده از دستور زیر کلون کنید:
 
-
 git clone https://github.com/saberramim/cryptocurrency-app.git  
 نصب وابستگی‌ها:
 به دایرکتوری پروژه بروید و وابستگی‌های لازم را با کد زیر نصب کنید:
